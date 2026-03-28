@@ -1,0 +1,21 @@
+{
+  "mae": 14107.0,
+  "rmse": 58481.0,
+  "r2": 0.8552,
+  "accuracy_pct": 85.5,
+  "mape": 3.49,
+  "feature_importance": {
+    "day_of_week": 0.0054,
+    "month": 0.0071,
+    "is_weekend": 0.0,
+    "is_holiday": 0.0,
+    "is_semester": 0.0,
+    "is_exam": 0.0,
+    "usage_lag_1": 0.4807,
+    "usage_lag_7": 0.0434,
+    "rolling_3_mean": 0.4634
+  },
+  "n_samples": 140,
+  "n_features": 9,
+  "campus": "Bundoora"
+}
